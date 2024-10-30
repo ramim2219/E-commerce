@@ -1,0 +1,15 @@
+npm install react-router-dom react-toastify
+// using react-router-dom we can create multiple routes in our project
+//using react-toastify we can display the notification in our project
+react toast notification
+react context api
+react routes
+hooks we learned
+----------------
+useState 
+useEffect 
+useContext
+useParams
+useLocation
+useNavigate
+structuredClone
